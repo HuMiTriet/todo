@@ -1,4 +1,0 @@
-#Sun Apr 10 22:34:31 ICT 2022
-base.0=/home/pj/coding/dart/todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

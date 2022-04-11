@@ -13,7 +13,7 @@ class LocationDetail extends StatelessWidget {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.stretch,
-        children: [
+        children: const [
           TextSection(Colors.black),
           TextSection(Colors.red),
           TextSection(Colors.yellow),
