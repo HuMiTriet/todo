@@ -1,5 +1,5 @@
 name: todo
-description: A new Flutter project.
+description: a todo list app that has a priority score for each task
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
